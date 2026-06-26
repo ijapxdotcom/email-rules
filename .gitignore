@@ -1,0 +1,11 @@
+# Ambientes virtuais
+.venv/
+venv/
+__pycache__/
+
+# Segurança
+.env
+
+# Telemetria e Logs locais
+data/
+*.csv
